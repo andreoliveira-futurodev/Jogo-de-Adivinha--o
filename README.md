@@ -1,1 +1,3 @@
-Projeto praticado  durante o curso E-Bac
+Projeto praticado  durante o curso
+   Engenheiro Front-End
+        E-Bac
